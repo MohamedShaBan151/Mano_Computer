@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/ALU.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module ALU
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/AR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AR
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Accumulator.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Accumulator
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/CommonBus.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module CommonBus
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Computer.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Computer
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/DR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module DR
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/INPR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module INPR
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Instruction_Register.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Instruction_Register
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Interrupt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Interrupt
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/OUTPR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module OUTPR
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/PC.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module PC
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/RAM.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RAM
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Secounce_Counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Secounce_Counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/TR.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module TR
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/clk generation.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module clk_generation
+INFO: [VRFC 10-2263] Analyzing Verilog file "K:/Users/mohammed/Desktop/8_bit_computer_v02/8_bit_computer_v01.srcs/sources_1/new/Computer_tp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Computer_tp
