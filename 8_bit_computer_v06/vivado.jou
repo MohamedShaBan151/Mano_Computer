@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Wed May  8 20:18:22 2024
+# Process ID: 4816
+# Current directory: K:/Users/mohammed/Desktop/8_bit_computer_v06
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent5364 K:\Users\mohammed\Desktop\8_bit_computer_v06\8_bit_computer_v06.xpr
+# Log file: K:/Users/mohammed/Desktop/8_bit_computer_v06/vivado.log
+# Journal file: K:/Users/mohammed/Desktop/8_bit_computer_v06\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project K:/Users/mohammed/Desktop/8_bit_computer_v06/8_bit_computer_v06.xpr
+update_compile_order -fileset sources_1
